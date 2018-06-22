@@ -4,6 +4,8 @@ Improved gazebo contact task simulation packages
 
 Aimed to be a mujoco-like physics engine for Gazebo to improve its contact simulation.
 
+There are many contact task in robotic simulation, for example, peg-in-hole, insert CPU and 3C products, and many robotic assembly tasks.
+
 Four ways to improve this thing:
 - fix gazebo source code for support fine contact simulation, for example using DART and Simbody. DART support non-penetration, and Simbody support many contact models which can be used to compute the contact force rather than using impulse (Ft=mv).
 - create new gazebo plugins for specific things
