@@ -14,6 +14,7 @@ Four ways to improve this thing:
 
 
 ## Reference
+- [SimBenchmark](https://github.com/leggedrobotics/SimBenchmark)
 - [simbody/simbody - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems](https://github.com/simbody/simbody)
 - [DART (Dynamic Animation and Robotics Toolkit)](https://dartsim.github.io/)
 - [siconos/siconos - Simulation framework for nonsmooth dynamical systems](https://github.com/siconos/siconos)
