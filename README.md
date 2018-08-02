@@ -18,6 +18,7 @@ Four ways to improve this thing:
 
 ## Reference
 - [1] D. Kaufman et al., “Staggered projections for frictional contact in multibody systems,” 2008.
+- [Contact Models and Multibody Dynamics](https://leggedrobotics.github.io/SimBenchmark/about/models.html)
 - [SimBenchmark wiki](https://leggedrobotics.github.io/SimBenchmark/)
 - [SimBenchmark](https://github.com/leggedrobotics/SimBenchmark)
 - [simbody/simbody - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems](https://github.com/simbody/simbody)
