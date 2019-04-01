@@ -13,7 +13,7 @@ Four ways to improve this thing:
 - fix gazebo source code for support fine contact simulation, for example using DART and Simbody. DART support non-penetration, and Simbody support many contact models which can be used to compute the contact force rather than using impulse (Ft=mv).
 - create new gazebo plugins for specific things
 - improve the ODE engine and other existing physics engine
-- create new physics engine
+- create new physics engine, like RaiSim.
 
 
 ## Reference
@@ -26,3 +26,4 @@ Four ways to improve this thing:
 - [DART (Dynamic Animation and Robotics Toolkit)](https://dartsim.github.io/)
 - [siconos/siconos - Simulation framework for nonsmooth dynamical systems](https://github.com/siconos/siconos)
 - [siconos/gazebo-siconos](https://github.com/siconos/gazebo-siconos)
+- [Comparison with other Engines (like Simbody, PhysX, etc) #11](https://github.com/leggedrobotics/SimBenchmark/issues/11)
