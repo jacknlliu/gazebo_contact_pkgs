@@ -2,7 +2,7 @@
 
 Improved gazebo contact task simulation packages
 
-Aimed to be a mujoco-like physics engine for Gazebo to improve its contact simulation.
+Aimed to be a mujoco-like physics engine or [Raisim](https://github.com/leggedrobotics/raisimLib) for Gazebo to improve its contact simulation.
 
 There are many contact task in robotic simulation, for example, peg-in-hole, insert CPU and 3C products, and many robotic assembly tasks. 
 
